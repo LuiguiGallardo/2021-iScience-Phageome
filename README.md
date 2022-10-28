@@ -1,5 +1,5 @@
 Started on 2021-02-23.
-by Rodrigo García-López for Adrian Ochoa-Leyva's Metagenomics and Metatranscriptomics Lab at IBt, UNAM, Cuernavaca, Mexico.
+by Rodrigo García-López & Luigui Gallardo for Adrian Ochoa-Leyva's Metagenomics and Metatranscriptomics Lab at IBt, UNAM, Cuernavaca, Mexico.
 Released under GNU GPLv3.0 license
 
 # Phageome
